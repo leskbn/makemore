@@ -4,7 +4,10 @@ Andrej Karpathy의 [The spelled-out intro to language modeling: building makemor
 
 ## 내용
 
-- 문자(character) 단위 bigram 언어 모델
+- 문자(character) 단위 언어 모델
+
+### 구현
+- Bigram (one character predicts the next one with a lookup table of counts)
 - 카운트 기반 bigram 통계 구현
 - Neural Network로 동일한 모델 구현
 - Negative log likelihood loss
