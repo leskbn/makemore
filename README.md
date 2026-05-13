@@ -8,3 +8,4 @@ Andrej Karpathy의 [Neural Networks: Zero to Hero](https://www.youtube.com/playl
 |------|------|------|
 | [part1_micrograd](./part1_micrograd/) | Micrograd - 역전파 엔진 직접 구현 | [링크](https://www.youtube.com/watch?v=VMj-3S1tku0) |
 | [part2_bigram](./part2_bigram/) | Bigram Language Model | [링크](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2) |
+| [part3_mlp](./part3_mlp/) | MLP Language Model | [링크](https://www.youtube.com/watch?v=TCH_1BHY58I&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=3) |
